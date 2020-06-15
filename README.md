@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ### Copy right 
 
-Git.ACN.2020 change
+Git.ACN.2020 all rights reserved.
